@@ -4,29 +4,309 @@ title: Calendar
 uid: d22ce7d2-09c8-9277-68d5-0c257403bacd
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Free Electron Model |  |
-| 2 | Crystalline Lattice |  |
-| 3 | Debye Waller Factor and Incommensurate Structures |  |
-| 4 | Point Group for Bravais Lattice | Problem set 1 due |
-| 5 | Bloch Theorem |  |
-| 6 | Band Structure | Problem set 2 due |
-| 7 | Orthogonalized Plane Wave (OPW) |  |
-| 8 | Pseudopotential and Augmented-Plane-Wave (APW) | Problem set 3 due |
-| 9 | Tight Binding, van Hove Singularity |  |
-| 10 | Experimental Tests of Band Structure and A Survey of the Periodic Table | Problem set 4 due |
-| 11 | Semiconductors: Donors, Acceptors and Excitons |  |
-| 12 | Semiclassical Dynamics of Electrons, Bloch Oscillation and Quantization of Orbits in a Uniform Magnetic Field | Problem set 5 due |
-| 13 | de Haas-van Alphen Effect and Quantum Hall Effect |  |
-| 14 | Quantum Hall Effect and Edge States | Problem set 6 due |
-| 15 | Electron-electron Interaction: Hartree-Fock Approximation |  |
-| 16 | Exchange Energy for Jellium | Problem set 7 due |
-| 17 | Density Functional Theory |  |
-| 18 | Hubbard Model, Screening and Plasmons | Problem set 8 due |
-| 19 | Phonons |  |
-| 20 | Electron-phonon Coupling and Electron Lifetime | Problem set 9 due |
-| 21 | Attraction by Exchanging Phonons | Problem set 10 due |
-| 22 | The Cooper Instability and the BCS Wavefunction |  |
-| 23 | The Bogoliubov Quasiparticles |  |
-| 24 | Ginzburg Landau Free Energy, Meissner Effect and Flux Quantization | Problem set 11 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Free Electron Model
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Crystalline Lattice
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Debye Waller Factor and Incommensurate Structures
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Point Group for Bravais Lattice
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bloch Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Band Structure
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Orthogonalized Plane Wave (OPW)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pseudopotential and Augmented-Plane-Wave (APW)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tight Binding, van Hove Singularity
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Experimental Tests of Band Structure and A Survey of the Periodic Table
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Semiconductors: Donors, Acceptors and Excitons
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Semiclassical Dynamics of Electrons, Bloch Oscillation and Quantization of Orbits in a Uniform Magnetic Field
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+de Haas-van Alphen Effect and Quantum Hall Effect
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Hall Effect and Edge States
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electron-electron Interaction: Hartree-Fock Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Exchange Energy for Jellium
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Density Functional Theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Hubbard Model, Screening and Plasmons
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Phonons
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Electron-phonon Coupling and Electron Lifetime
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Attraction by Exchanging Phonons
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Cooper Instability and the BCS Wavefunction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Bogoliubov Quasiparticles
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Ginzburg Landau Free Energy, Meissner Effect and Flux Quantization
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
