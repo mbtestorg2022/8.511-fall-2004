@@ -11,6 +11,7 @@ description: 'The Kohn ?Sham formulation of the density functional theory is exp
   introduced.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-511-theory-of-solids-i-fall-2004/1378ad51e28d43619d66a8b3d7be70f4_lec17.pdf
 file_type: application/pdf
+parent_uid: c7c5bcee-7362-6f08-b1ed-5b562dd27b30
 resourcetype: Document
 title: lec17.pdf
 uid: 1378ad51-e28d-4361-9d66-a8b3d7be70f4

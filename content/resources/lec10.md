@@ -11,6 +11,7 @@ description: Various tests of band calculations are described, starting from spe
   of the 4f states.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-511-theory-of-solids-i-fall-2004/e1282ed5cdf523a3ec2509928e5a138c_lec10.pdf
 file_type: application/pdf
+parent_uid: c7c5bcee-7362-6f08-b1ed-5b562dd27b30
 resourcetype: Document
 title: lec10.pdf
 uid: e1282ed5-cdf5-23a3-ec25-09928e5a138c

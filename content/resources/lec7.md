@@ -6,6 +6,7 @@ description: The need to truncate the size of the big matrix is discussed. The p
   pseudopotential and the nearly free electron model is justified.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-511-theory-of-solids-i-fall-2004/f9c1c0b2cb01899e9ae7dee7f22e5b49_lec7.pdf
 file_type: application/pdf
+parent_uid: c7c5bcee-7362-6f08-b1ed-5b562dd27b30
 resourcetype: Document
 title: lec7.pdf
 uid: f9c1c0b2-cb01-899e-9ae7-dee7f22e5b49

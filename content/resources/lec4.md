@@ -6,6 +6,7 @@ description: In this lecture the concept of point group is introduced, first for
   by the screw axis in hcp structures.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-511-theory-of-solids-i-fall-2004/1bce465f922881d725616545c59c309f_lec4.pdf
 file_type: application/pdf
+parent_uid: c7c5bcee-7362-6f08-b1ed-5b562dd27b30
 resourcetype: Document
 title: lec4.pdf
 uid: 1bce465f-9228-81d7-2561-6545c59c309f

@@ -11,6 +11,7 @@ description: 'The effect of a ?ux tube through the center of a ring is described
   small in the sample width.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-511-theory-of-solids-i-fall-2004/be6b63556e295d3016f602315f02130d_lec14.pdf
 file_type: application/pdf
+parent_uid: c7c5bcee-7362-6f08-b1ed-5b562dd27b30
 resourcetype: Document
 title: lec14.pdf
 uid: be6b6355-6e29-5d30-16f6-02315f02130d
